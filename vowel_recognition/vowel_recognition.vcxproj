@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4713065D-5D96-4213-89CB-4E83592EFE46}</ProjectGuid>
+    <ProjectGuid>{407034EA-8C69-4A95-A8CC-5043BFEF487A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>vowel_recognition</RootNamespace>
   </PropertyGroup>
